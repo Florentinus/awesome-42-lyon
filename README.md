@@ -80,6 +80,8 @@ Ressources en ligne
 #### Général
 * [Comment Devenir un bon programmeur](https://programmation.developpez.com/tutoriel/comment-devenir-bon-programmeur/?page=introduction) - Long tutoriel qui couvre beaucoup de sujets autour du métier de développeur
 
+* [Computerphile](https://www.youtube.com/user/Computerphile/videos) - Videos Youtubes sur tout les aspect interessant de la programation simplement expliqué.
+
 #### Programmation
 * [HackerRank](https://www.hackerrank.com/) - Concours de programmation et plateforme de recrutement
 
